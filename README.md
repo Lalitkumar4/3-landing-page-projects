@@ -8,6 +8,3 @@ These projects are based on a tutorial by bradtraversy.
 | 2    |product Landing Page | [Live Demo](https://product-landing-page12.netlify.app/)   |
 | 3    |Video Landing Page  | [Live Demo](https://video-landing-webpage.netlify.app/)   |
 
-## Credits
-
-Original creator: [bradtraversy](https://github.com/bradtraversy)
